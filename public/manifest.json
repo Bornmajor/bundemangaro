@@ -1,0 +1,16 @@
+{
+  "short_name": "Bunde Mangaro App",
+  "name": "Bunde Mangaro WebApp",
+  "icons": [
+    {
+      "src": "court_logo.png",
+      "sizes": "375x375 64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+ 
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#052925",
+  "background_color": "#ffffff"
+}
