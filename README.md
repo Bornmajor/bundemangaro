@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4ae8c882-40ec-4e9d-a067-19f813a5a3ad" alt="Image description" width="150">
+    <img src="https://github.com/user-attachments/assets/4ae8c882-40ec-4e9d-a067-19f813a5a3ad" alt="Image description" width="80">
 </div>
 
 
@@ -17,6 +17,17 @@ The website is a modern and professional landing page for Bunde Mangaro & Compan
 6. Contact Form: Allows visitors to reach out directly for inquiries or consultation requests.
 7. Fully Responsive Design: Ensures seamless experience across desktop, tablet, and mobile devices.
 8. Live Demo Hosting: The website is hosted on Netlify for easy access and sharing.
+
+# Technologies used
+* ReactJS: For building the dynamic and interactive user interface.
+* React Router: For implementing smooth navigation across sections.
+* Ant Design (Antd): For elegant and consistent UI components.
+* Netlify: For live hosting and deployment of the website.
+
+# Live Demo
+
+Check out the live demo of the project hosted on Netlify: [demo link](https://maja-agency.netlify.app/](https://bundemangaro.netlify.app/))
+
 
 # How to Install and Run the Project
 
@@ -64,14 +75,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-# Technologies used
-* ReactJS: For building the dynamic and interactive user interface.
-* React Router: For implementing smooth navigation across sections.
-* Ant Design (Antd): For elegant and consistent UI components.
-* Netlify: For live hosting and deployment of the website.
-
-# Live Demo
-
-Check out the live demo of the project hosted on Netlify: [demo link](https://maja-agency.netlify.app/](https://bundemangaro.netlify.app/))
 
 
