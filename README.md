@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4ae8c882-40ec-4e9d-a067-19f813a5a3ad" alt="Image description" width="150">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Bunde Mangaro law firm
+
+The website is a modern and professional landing page for Bunde Mangaro & Company Advocates, designed to engage visitors and provide essential information about the firm's legal services, team, and case studies. It also includes an interactive contact form to connect with potential clients.
+
+
+# Features
+1. Hero Section: Captures the visitor's attention with a compelling heading and subheading.
+2. Practice Area Section: Highlights the key legal services offered by the firm.
+3. Testimonial Section: Displays client reviews and experiences to build trust and credibility.
+4. Attorney Profiles: Provides details about the team of experienced attorneys.
+5. Case Studies: Features a showcase of successful legal cases handled by the firm.
+6. Contact Form: Allows visitors to reach out directly for inquiries or consultation requests.
+7. Fully Responsive Design: Ensures seamless experience across desktop, tablet, and mobile devices.
+8. Live Demo Hosting: The website is hosted on Netlify for easy access and sharing.
+
+# How to Install and Run the Project
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Bornmajor/bundemangaro.git
 
 ## Available Scripts
 
@@ -29,42 +53,25 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+# Technologies used
+* ReactJS: For building the dynamic and interactive user interface.
+* React Router: For implementing smooth navigation across sections.
+* Ant Design (Antd): For elegant and consistent UI components.
+* Netlify: For live hosting and deployment of the website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Live Demo
 
-### Deployment
+Check out the live demo of the project hosted on Netlify: [demo link](https://maja-agency.netlify.app/](https://bundemangaro.netlify.app/))
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
