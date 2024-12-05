@@ -26,7 +26,7 @@ The website is a modern and professional landing page for Bunde Mangaro & Compan
 
 # Live Demo
 
-Check out the live demo of the project hosted on Netlify: [demo link](https://maja-agency.netlify.app/](https://bundemangaro.netlify.app/))
+Check out the live demo of the project hosted on Netlify: [demo link](https://bundemangaro.netlify.app/)
 
 
 # How to Install and Run the Project
